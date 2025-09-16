@@ -1,0 +1,13 @@
+name: ctl_sensors_dashboard_conda_env_2024
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - pip
+  - pip:
+      - dash==2.16.1
+      - plotly==5.19.0
+      - flask==3.0.2
+      - numpy==1.26.4
+      - typing-extensions
+      - pyarmor

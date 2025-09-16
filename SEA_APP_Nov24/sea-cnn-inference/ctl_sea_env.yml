@@ -1,0 +1,22 @@
+name: ctl_sea_conda_env_2024
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - pip
+  - pip:
+    - keras==2.10.0
+    - Keras-Preprocessing==1.1.2
+    - tensorflow==2.10.1
+    - tensorflow-estimator==2.10.0
+    #- tensorflow-intel==2.14.0
+    - tensorflow-io-gcs-filesystem==0.31.0
+    - scikit-learn==1.3.1
+    - scipy==1.8.0
+    - numpy==1.24.4
+    - pandas==2.1.1
+    - pyzmq==24.0.1
+    - kafka-python==2.0.2 # (optional) KAFKA FOR STREAMING DATA TO EXUS SERVER
+    - typing-extensions
+    - pyarmor
+    - requests

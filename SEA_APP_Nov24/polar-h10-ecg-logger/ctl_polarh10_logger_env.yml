@@ -1,0 +1,13 @@
+name: ctl_polarh10_logger_conda_env_2024
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - pip
+  - pip:
+    - bleak==0.21.1
+    - matplotlib==3.8.3
+    - aiohttp==3.9.3
+  - pandas==2.2.1
+  - numpy==1.26.4
+  - pyzmq==24.0.1

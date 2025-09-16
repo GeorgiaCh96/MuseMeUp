@@ -1,0 +1,10 @@
+{
+    "SAVED_MODEL_PATH": "saved_models/stress_det_downstream_model_TRIAL226_CV2.h5",
+    "N_FEATURES": 1,
+    "FS": 130,
+    "WINDOW_SIZE_SEC": 30,
+    "PREDICTION_FREQUENCY_SEC": 1,
+    "PREDICTION_FREQUENCY_SEMKG_SEC": 10,
+    "ZMQ_SERVER_IP": "localhost",
+    "ZMQ_SERVER_PORT": "5555"
+  }

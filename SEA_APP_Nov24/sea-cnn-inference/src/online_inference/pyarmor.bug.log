@@ -1,0 +1,12 @@
+[BUG]: no found input "online_inference"
+
+## Command Line
+/home/georgiac/anaconda3/envs/ctl_sea_conda_env_2024/bin/pyarmor gen --recursive --output dist online_inference
+
+## Environments
+Python 3.10.12
+Pyarmor 9.1.8 (trial), 000000, non-profits
+Platform linux.x86_64
+Native linux.x86_64
+Home /home/georgiac/.pyarmor
+

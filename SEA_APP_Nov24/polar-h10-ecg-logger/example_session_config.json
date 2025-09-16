@@ -1,0 +1,10 @@
+{
+    "session_id": "1",
+    "person_id": "1",
+    "device_address": "A0:9E:1A:E0:D7:00",
+    "segments": [
+      {"label": "Composition", "duration": 120
+      }
+    ]
+  }
+  

@@ -1,0 +1,15 @@
+name: video_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10.12
+  - pip
+  - numpy
+  - keras==2.10
+  - tensorflow==2.10
+  - pip:
+    - opencv-python==4.9.0.80
+    - aiohttp==3.9.4
+    - requests
+    - mtcnn-opencv
+    - pyarmor

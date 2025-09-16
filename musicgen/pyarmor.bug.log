@@ -1,0 +1,12 @@
+[BUG]: no found input "myapp"
+
+## Command Line
+/home/georgiac/Documents/MuseIT/sea_mea_integrated_May25/musicgen/venv/bin/pyarmor gen --recursive --output dist myapp
+
+## Environments
+Python 3.10.12
+Pyarmor 9.1.1 (trial), 000000, non-profits
+Platform linux.x86_64
+Native linux.x86_64
+Home /home/georgiac/.pyarmor
+

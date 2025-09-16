@@ -1,0 +1,2 @@
+SEA_APP_Nov24/polar-h10-ecg-logger/main_encrypted_exe filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
